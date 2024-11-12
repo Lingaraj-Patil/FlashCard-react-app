@@ -44,3 +44,6 @@ This is a simple Flashcard application built with React and Tailwind CSS. It all
     ```bash
     npm run dev
     ```
+    ![Screenshot 2024-11-12 220902](https://github.com/user-attachments/assets/7d9c458d-4ab3-4128-8ddd-c3593de38904)
+
+    
